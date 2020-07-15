@@ -1,6 +1,6 @@
 ### 👋
 
-<img src="https://raw.githubusercontent.com/camposraiza/camposraiza/master/New%20Project%20(1).png" alt="Raiza Campos">
+<img src="https://raw.githubusercontent.com/camposraiza/camposraiza/master/cover.png.png" alt="Raiza Campos">
 
 
 😄 Analista de Sistemas e Mestra em Comunicação, estudos focados em análise de dados com diversas linguagens, como phyton e R. Trabalhando atualmente com implantação de projetos de TI e me especializando em Analytics e Business Intelligence pela PUC Minas. 
