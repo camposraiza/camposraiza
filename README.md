@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/camposraiza/camposraiza/master/New%20Project%20(1).png" alt="Raiza Campos">
+
 <!--
 **camposraiza/camposraiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
