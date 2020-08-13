@@ -7,7 +7,8 @@
 Trabalhando atualmente com implantação de projetos de TI e me especializando em Analytics e Business Intelligence pela PUC Minas. 
 
 🌱 Projetos:
-- Análise dos dados do Airbnb de Bergamo: https://bit.ly/37e9hwI
+- Análise dos dados do Airbnb de Bergamo: https://bit.ly/2Feuht7
+- Análise dos dados do Airbnb de Londres: https://bit.ly/2XXXKhs
 
 📫 Me encontre também em:
  <p align="center">
