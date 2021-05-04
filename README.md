@@ -9,6 +9,7 @@ Trabalhando atualmente com implantação de projetos de TI e me especializando e
 🌱 Projetos:
 - Análise dos dados do Airbnb de Bergamo: https://bit.ly/2Feuht7
 - Análise dos dados do Airbnb de Londres: https://bit.ly/2XXXKhs
+- Imersão Dados Biotecnologia | Alura : https://bit.ly/2SmS0hn
 
 📫 Me encontre também em:
  <p align="center">
